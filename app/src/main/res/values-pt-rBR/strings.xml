@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeBank</string>
+    <string name="total">Total</string>
+    <string name="due">Gastos</string>
+    <string name="account_redacted">• • • • • </string>
+    <string name="accounts">Contas</string>
+    <string name="bills">Despesas</string>
+    <string name="sort">Ordenar</string>
+    <string name="see_all">VER TODOS</string>
+</resources>
