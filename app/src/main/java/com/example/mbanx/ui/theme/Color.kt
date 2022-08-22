@@ -3,14 +3,14 @@ package com.example.mbanx.ui.theme
 import androidx.compose.material.darkColors
 import androidx.compose.ui.graphics.Color
 
-val Green500 = Color(0xFF1EB980)
-val DarkBlue900 = Color(0xFF26282F)
+val Blue500 = Color(0xFF03A9F4)
+val DarkGreen900 = Color(0xFF263A27)
 
 // Rally is always dark themed.
 val ColorPalette = darkColors(
-    primary = Green500,
-    surface = DarkBlue900,
+    primary = Blue500,
+    surface = DarkGreen900,
     onSurface = Color.White,
-    background = DarkBlue900,
+    background = DarkGreen900,
     onBackground = Color.White
 )
